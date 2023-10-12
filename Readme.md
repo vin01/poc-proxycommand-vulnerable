@@ -17,7 +17,7 @@ url = ssh://'`open -aCalculator`'foo.example.com/bar
 
 Taken from: https://man.openbsd.org/ssh_config#ProxyCommand
 
-### What is in this reposiotry
+### What is in this repository
 
 A submodule which would exploit this vulnerability to pop a calculator on OSX.
 
